@@ -1,0 +1,24 @@
+#container {
+  width:250px;
+}
+.testimonial {
+  width:100%;
+  background:#116e94;
+  border-radius:25px;
+}
+
+.testimonial blockquote {
+  padding:25px 25px 15px 25px;
+  color:#FFFFFF;
+  margin:0;
+  font-size:20px;
+  line-height:26px;
+}
+
+.testimonial span {
+  color:#FFFFFF;
+  display:block;
+  text-align:right;
+  font-size:14px;
+  padding:25px;
+}
